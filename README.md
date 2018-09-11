@@ -1,6 +1,7 @@
 # MasterMind
 Mastermind game implement using java
 
+# Instruction
 Base on the instruction, the user should decide how many positions that the game should start with.
 Then before the game start, the user should think of a combination of five different colors: a,b,c,d,e,f based on the number of position that user default at the very beginning.
 
